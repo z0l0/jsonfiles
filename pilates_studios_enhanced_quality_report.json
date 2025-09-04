@@ -1,0 +1,104 @@
+{
+  "summary": {
+    "total_sites_analyzed": 6,
+    "average_quality_score": 78.83333333333333,
+    "high_priority_targets": 0,
+    "medium_priority_targets": 0,
+    "low_priority_targets": 6
+  },
+  "worst_sites": [
+    {
+      "url": "http://vibelounge.ca/",
+      "business_name": "Vibe Lounge",
+      "quality_score": 73,
+      "contact_email": "info@vibelounge.ca",
+      "phone": "604-505-4246",
+      "pain_points": [
+        "Pricing hidden behind multiple clicks",
+        "No clear contact information",
+        "No business hours listed"
+      ],
+      "improvement_potential": "Medium",
+      "rebuild_priority": "Low"
+    },
+    {
+      "url": "http://www.vipfitnessandlifestyle.com/",
+      "business_name": "VIP Fitness & Lifestyle",
+      "quality_score": 76,
+      "contact_email": "info@VIPFIT.ca",
+      "phone": "778-866-6757",
+      "pain_points": [
+        "Pricing hidden behind multiple clicks",
+        "No business hours listed",
+        "Slow loading images"
+      ],
+      "improvement_potential": "Medium",
+      "rebuild_priority": "Low"
+    },
+    {
+      "url": "https://www.trimetricsphysio.com/",
+      "business_name": "Trimetrics Physiotherapy",
+      "quality_score": 80,
+      "contact_email": "info@trimetricsphysio.com",
+      "phone": "604-982-0366",
+      "pain_points": [
+        "Pricing hidden behind multiple clicks",
+        "No business hours listed",
+        "Some images could be better optimized for faster loading"
+      ],
+      "improvement_potential": "Medium",
+      "rebuild_priority": "Low"
+    },
+    {
+      "url": "https://houseconcepts.com/",
+      "business_name": "House Concepts",
+      "quality_score": 80,
+      "contact_email": "hello@houseconcepts.com",
+      "phone": "604-566-8980",
+      "pain_points": [
+        "Pricing hidden behind multiple clicks",
+        "No clear business hours listed"
+      ],
+      "improvement_potential": "Medium",
+      "rebuild_priority": "Low"
+    },
+    {
+      "url": "http://www.qubecore.com/",
+      "business_name": "QubeCore Sports & Rehab",
+      "quality_score": 80,
+      "contact_email": "info@qubecore.com",
+      "phone": "604-210-2274",
+      "pain_points": [
+        "Pricing hidden behind multiple clicks",
+        "No clear business hours listed"
+      ],
+      "improvement_potential": "Medium",
+      "rebuild_priority": "Low"
+    },
+    {
+      "url": "https://www.clubpilates.com/kitsilano/",
+      "business_name": "Club Pilates Kitsilano",
+      "quality_score": 84,
+      "contact_email": "kitsilano@clubpilates.com",
+      "phone": "604-336-9676",
+      "pain_points": [
+        "Pricing hidden behind multiple clicks",
+        "Some images may not be optimized for faster loading"
+      ],
+      "improvement_potential": "Medium",
+      "rebuild_priority": "Low"
+    }
+  ],
+  "common_pain_points": {
+    "Pricing hidden behind multiple clicks": 6,
+    "No business hours listed": 3,
+    "No clear business hours listed": 2,
+    "Some images could be better optimized for faster loading": 1,
+    "Slow loading images": 1,
+    "Some images may not be optimized for faster loading": 1,
+    "No clear contact information": 1
+  },
+  "targeting_recommendations": [
+    "0 high-priority sites have contact information for outreach"
+  ]
+}
